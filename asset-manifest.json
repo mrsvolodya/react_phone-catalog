@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.ae445899.css",
-    "main.js": "./static/js/main.fe085a99.js",
+    "main.js": "./static/js/main.97ddf9b1.js",
     "static/media/desctop-third.png": "./static/media/desctop-third.55ed35fb9a972be3608c.png",
     "static/media/desctop-first.png": "./static/media/desctop-first.4da99d90f980e0566d7d.png",
     "static/media/logo.svg": "./static/media/logo.83874b1848b1220f986925bc0bf7cb18.svg",
@@ -9,12 +9,12 @@
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/accessories.png": "./static/media/accessories.c89ddada842650221bb3.png",
-    "static/media/first-mobile.png": "./static/media/first-mobile.b73845aad75f62b7e690.png",
     "static/media/tablets.png": "./static/media/tablets.ab919a9be70a5a66bd8c.png",
     "static/media/phones.png": "./static/media/phones.5dd981d1bd9921fe180f.png",
     "static/media/desctop-second.jpg": "./static/media/desctop-second.4477fa555e8264c9f0a4.jpg",
-    "static/media/socond-mobile.jpg": "./static/media/socond-mobile.87eb96e630c9d73dc4e8.jpg",
+    "static/media/socond-mobile.webp": "./static/media/socond-mobile.bccfc269d340bd8f15fd.webp",
     "static/media/third-mobile.webp": "./static/media/third-mobile.e5a15d01483e0f694ac5.webp",
+    "static/media/first-mobile.webp": "./static/media/first-mobile.c03901b745bfa72f3b46.webp",
     "static/media/cart.svg": "./static/media/cart.c6d6212a3ea700d6002e8aed76be07ae.svg",
     "static/media/favorites.svg": "./static/media/favorites.aec7ca3156c0efbb301b0029686f7b54.svg",
     "static/media/home-icon.svg": "./static/media/home-icon.d4c29e4f137b3a79235a5293536d71a0.svg",
@@ -30,10 +30,10 @@
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "index.html": "./index.html",
     "main.ae445899.css.map": "./static/css/main.ae445899.css.map",
-    "main.fe085a99.js.map": "./static/js/main.fe085a99.js.map"
+    "main.97ddf9b1.js.map": "./static/js/main.97ddf9b1.js.map"
   },
   "entrypoints": [
     "static/css/main.ae445899.css",
-    "static/js/main.fe085a99.js"
+    "static/js/main.97ddf9b1.js"
   ]
 }
